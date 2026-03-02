@@ -2,3 +2,12 @@
 @plugin "daisyui"{
   themes: all;
 }
+
+@font-face {
+  font-family: "Roboto Slab";
+  src: url("./resources/RobotoSlab-VariableFont_wght.ttf");
+}
+
+*{
+  font-family: "Roboto Slab";
+}
